@@ -303,7 +303,7 @@
         {
             "slug": "25-isEvenAndGreaterThanTen",
             "title": "25-isEvenAndGreaterThanTen",
-            "done": false,
+            "done": true,
             "path": "exercises/25-isEvenAndGreaterThanTen",
             "translations": [
                 "es",
@@ -314,7 +314,7 @@
         {
             "slug": "26-average",
             "title": "26-average",
-            "done": false,
+            "done": true,
             "path": "exercises/26-average",
             "translations": [
                 "es",
@@ -325,7 +325,7 @@
         {
             "slug": "27-computeAreaOfATriangle",
             "title": "27-computeAreaOfATriangle",
-            "done": false,
+            "done": true,
             "path": "exercises/27-computeAreaOfATriangle",
             "translations": [
                 "es",
